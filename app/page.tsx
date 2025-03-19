@@ -110,7 +110,7 @@ export default function ChatbotApp() {
           {messages.length === 0 ? (
             <div className="flex items-center justify-center h-full">
               <p className="text-gray-500 dark:text-gray-400 text-center">
-                Start a conversation with Gemini AI.
+                Start a conversation with  AI Chatbot.
                 <br />
                 Ask me anything!
               </p>
